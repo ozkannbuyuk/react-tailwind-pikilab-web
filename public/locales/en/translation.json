@@ -1,0 +1,341 @@
+{
+  "head": {
+    "title": "Web and Mobile Software Solutions with Current Technologies | PikiLab",
+    "description": "We're here to grow your business together! We create web and mobile software solutions using cutting-edge technologies. We understand your needs and provide customized solutions. We're ready to collaborate to shape your future with software.",
+    "keywords": "Web Applications, Mobile Applications, Software Solutions, PikiLab",
+    "author": "Özkan Büyük"
+  },
+  "navigation": [
+    {
+      "name": "About",
+      "href": "about"
+    },
+    {
+      "name": "Brands",
+      "href": "brands"
+    },
+    {
+      "name": "Services",
+      "href": "services"
+    },
+    {
+      "name": "References",
+      "href": "references"
+    },
+    {
+      "name": "Contact",
+      "href": "contact"
+    }
+  ],
+  "hero": {
+    "titleTop": "With Current Technologies",
+    "titleBottom": "Web & Mobile Software Solutions",
+    "subtitle": "We're here to grow your business together! We create web and mobile software solutions using cutting-edge technologies. We understand your needs and provide customized solutions. We're ready to collaborate to shape your future with software.",
+    "button": "Get in Touch",
+    "imgName": "Technology"
+  },
+  "partners": [
+    {
+      "partnerUrl": "https://www.freelancer.com/u/pikilabcom",
+      "partnerImg": "freelancer.png",
+      "partnerName": "Freelancer"
+    },
+    {
+      "partnerUrl": "https://www.fiverr.com/pikilab",
+      "partnerImg": "fiverr.png",
+      "partnerName": "Fiverr"
+    },
+    {
+      "partnerUrl": "https://www.upwork.com/freelancers/~0127fc2a28b41f61a1",
+      "partnerImg": "upwork.png",
+      "partnerName": "Upwork"
+    },
+    {
+      "partnerUrl": "https://bionluk.com/pikilabcom",
+      "partnerImg": "bionluk.png",
+      "partnerName": "Bionluk"
+    }
+  ],
+  "youtube": {
+    "imgName": "PikiLab - YouTube",
+    "title": "PikiLab Is Now On YouTube",
+    "url": "https://www.youtube.com/@pikilabcom",
+    "urlName": "@pikilabcom",
+    "contentTop": "We are offering interesting content about the software world on the YouTube platform! Follow us for software development, coding, technology news, and more.",
+    "contentBottom": "Subscribe to our channel and open the doors to the world of software. Don't forget to turn on notifications so you won't miss out!",
+    "button": "Go To The Channel"
+  },
+  "skills": [
+    {
+      "skillImg": "html5.png",
+      "skillName": "Html5"
+    },
+    {
+      "skillImg": "css3.png",
+      "skillName": "Css3"
+    },
+    {
+      "skillImg": "scss.png",
+      "skillName": "Scss"
+    },
+    {
+      "skillImg": "bootstrap.png",
+      "skillName": "Bootstrap"
+    },
+    {
+      "skillImg": "tailwind-css.png",
+      "skillName": "Tailwind CSS"
+    },
+    {
+      "skillImg": "styled-components.png",
+      "skillName": "styled-components"
+    },
+    {
+      "skillImg": "javascript.png",
+      "skillName": "JavaScript"
+    },
+    {
+      "skillImg": "typescript.png",
+      "skillName": "TypeScript"
+    },
+    {
+      "skillImg": "jquery.png",
+      "skillName": "jQuery"
+    },
+    {
+      "skillImg": "react.png",
+      "skillName": "React"
+    },
+    {
+      "skillImg": "nextjs.png",
+      "skillName": "Next.js"
+    },
+    {
+      "skillImg": "java.png",
+      "skillName": "Java"
+    },
+    {
+      "skillImg": "spring-boot.png",
+      "skillName": "Spring Boot"
+    },
+    {
+      "skillImg": "php.png",
+      "skillName": "Php"
+    },
+    {
+      "skillImg": "laravel.png",
+      "skillName": "Laravel"
+    },
+    {
+      "skillImg": "nodejs.png",
+      "skillName": "Node.js"
+    },
+    {
+      "skillImg": "expressjs.png",
+      "skillName": "Express.js"
+    },
+    {
+      "skillImg": "android-studio.png",
+      "skillName": "Android Studio"
+    },
+    {
+      "skillImg": "kotlin.png",
+      "skillName": "Kotlin"
+    },
+    {
+      "skillImg": "jetpack-compose.png",
+      "skillName": "Jetpack Compose"
+    },
+    {
+      "skillImg": "react-native.png",
+      "skillName": "React Native"
+    },
+    {
+      "skillImg": "expo.png",
+      "skillName": "Expo"
+    },
+    {
+      "skillImg": "mysql.png",
+      "skillName": "MySQL"
+    },
+    {
+      "skillImg": "mongodb.png",
+      "skillName": "MongoDB"
+    },
+    {
+      "skillImg": "postman.png",
+      "skillName": "Postman"
+    },
+    {
+      "skillImg": "cpanel.png",
+      "skillName": "cPanel"
+    },
+    {
+      "skillImg": "ssh.png",
+      "skillName": "SSH"
+    },
+    {
+      "skillImg": "git.png",
+      "skillName": "Git"
+    },
+    {
+      "skillImg": "github.png",
+      "skillName": "GitHub"
+    },
+    {
+      "skillImg": "wordpress.png",
+      "skillName": "WordPress"
+    },
+    {
+      "skillImg": "seo.png",
+      "skillName": "SEO"
+    },
+    {
+      "skillImg": "photoshop.png",
+      "skillName": "Photoshop"
+    },
+    {
+      "skillImg": "premiere-pro.png",
+      "skillName": "Premiere Pro"
+    },
+    {
+      "skillImg": "after-effects.png",
+      "skillName": "After Effects"
+    },
+    {
+      "skillImg": "social-media.png",
+      "skillName": "Social Media"
+    }
+  ],
+  "brands": {
+    "title": "Brands",
+    "subtitle": "We are striving to implement digital platforms with the potential to reach wide audiences."
+  },
+  "brandsList": [
+    {
+      "brandImg": "patisas.png",
+      "brandName": "Patisas",
+      "brandUrl": "https://patisas.com",
+      "brandUrlName": "patisas.com"
+    },
+    {
+      "brandImg": "pikilab.png",
+      "brandName": "PikiLab",
+      "brandUrl": "https://pikilab.com",
+      "brandUrlName": "pikilab.com"
+    },
+    {
+      "brandImg": "softboxturkiye.png",
+      "brandName": "Soft Box Türkiye",
+      "brandUrl": "https://softboxturkiye.com",
+      "brandUrlName": "softboxturkiye.com"
+    },
+    {
+      "brandImg": "pikigames.png",
+      "brandName": "PikiGames",
+      "brandUrl": "https://piki.games",
+      "brandUrlName": "piki.games"
+    },
+    {
+      "brandImg": "cineturkey.png",
+      "brandName": "CineTurkey",
+      "brandUrl": "https://cineturkey.com",
+      "brandUrlName": "cineturkey.com"
+    },
+    {
+      "brandImg": "fullyakit.png",
+      "brandName": "FullYakıt",
+      "brandUrl": "https://fullyakit.com",
+      "brandUrlName": "fullyakit.com"
+    },
+    {
+      "brandImg": "beepiki.png",
+      "brandName": "BeePiki",
+      "brandUrl": "https://beepiki.com",
+      "brandUrlName": "beepiki.com"
+    },
+    {
+      "brandImg": "ozkanbuyuk.png",
+      "brandName": "Özkan Büyük",
+      "brandUrl": "https://ozkanbuyuk.com",
+      "brandUrlName": "ozkanbuyuk.com"
+    }
+  ],
+  "services": {
+    "title": "Services",
+    "subtitle": "We are listening, understanding, and creating original solutions to take you ahead of your competitors."
+  },
+  "serviceContent1": {
+    "title": "Website Design",
+    "content": "We create mobile-responsive websites tailored to your needs using the latest technologies."
+  },
+  "serviceContent2": {
+    "title": "Web Software Development",
+    "content": "With our strong infrastructure, we strive to meet your software needs in the best possible way."
+  },
+  "serviceContent3": {
+    "title": "Mobile App Development",
+    "content": "We develop mobile applications that are compatible with your website to work on both iOS and Android platforms."
+  },
+  "serviceContent4": {
+    "title": "Social Media Management",
+    "content": "We manage your social media accounts diligently and keep them up-to-date by following trends and staying current."
+  },
+  "references": {
+    "title": "References",
+    "subtitle": "We are ready to collaborate to shape your future through software."
+  },
+  "referenceSlider": [
+    {
+      "referenceImg": "reference_1.png",
+      "referenceContent": "The evaluation by the reference company representative has not been provided.",
+      "referenceNameSurname": "Name Surname",
+      "referenceCompany": "Authority, Company Name"
+    },
+    {
+      "referenceImg": "reference_2.png",
+      "referenceContent": "The evaluation by the reference company representative has not been provided.",
+      "referenceNameSurname": "Name Surname",
+      "referenceCompany": "Authority, Company Name"
+    },
+    {
+      "referenceImg": "reference_3.png",
+      "referenceContent": "The evaluation by the reference company representative has not been provided.",
+      "referenceNameSurname": "Name Surname",
+      "referenceCompany": "Authority, Company Name"
+    },
+    {
+      "referenceImg": "reference_4.png",
+      "referenceContent": "The evaluation by the reference company representative has not been provided.",
+      "referenceNameSurname": "Name Surname",
+      "referenceCompany": "Authority, Company Name"
+    }
+  ],
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contact us without further delay to have software solutions tailored to your needs.",
+    "emailTitle": "Do you need help?",
+    "emailContent": "We would be happy to help.",
+    "email": "info@pikilab.com",
+    "emailTo": "mailto:info@pikilab.com",
+    "locationTitle": "Address",
+    "locationContent": "Türkiye",
+    "formSendFillError": "This field cannot be left blank!",
+    "formSendEmailError": "Please enter a valid email address!",
+    "name_surname": "Your Name Surname",
+    "e-mail": "Your Email Address",
+    "message": "Your Message",
+    "formSendSuccessful": "Your message has been successfully sent. We will get back to you within 24 hours.",
+    "formSend": "Send a Message"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  },
+  "backToTopButton": {
+    "title": "Scroll Up"
+  },
+  "cookie": {
+    "text": "This website uses cookies to provide you with a better service. By using this site, you accept the use of cookies.",
+    "buttonText": "Close ❌"
+  }
+}

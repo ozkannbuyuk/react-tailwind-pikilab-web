@@ -1,0 +1,341 @@
+{
+  "head": {
+    "title": "Güncel Teknolojilerle Web ve Mobil Yazılım Çözümleri | PikiLab",
+    "description": "İşinizi birlikte büyütmek için buradayız! Güncel teknolojilerle web ve mobil yazılım çözümleri üretiyoruz. İhtiyaçlarınızı anlıyor, özelleştirilmiş çözümler sunuyoruz. Geleceğinizi yazılımla şekillendirmek için iş birliği yapmaya hazırız.",
+    "keywords": "Web Uygulamaları, Mobil Uygulamalar, Yazılım Çözümleri, PikiLab",
+    "author": "Özkan Büyük"
+  },
+  "navigation": [
+    {
+      "name": "Hakkımızda",
+      "href": "about"
+    },
+    {
+      "name": "Markalarımız",
+      "href": "brands"
+    },
+    {
+      "name": "Hizmetlerimiz",
+      "href": "services"
+    },
+    {
+      "name": "Referanslar",
+      "href": "references"
+    },
+    {
+      "name": "İletişim",
+      "href": "contact"
+    }
+  ],
+  "hero": {
+    "titleTop": "Güncel Teknolojilerle",
+    "titleBottom": "Web & Mobil Yazılım Çözümleri",
+    "subtitle": "İşinizi birlikte büyütmek için buradayız! Güncel teknolojilerle web ve mobil yazılım çözümleri üretiyoruz. İhtiyaçlarınızı anlıyor, özelleştirilmiş çözümler sunuyoruz. Geleceğinizi yazılımla şekillendirmek için iş birliği yapmaya hazırız.",
+    "button": "İletişime Geç",
+    "imgName": "Teknoloji"
+  },
+  "partners": [
+    {
+      "partnerUrl": "https://www.freelancer.com/u/pikilabcom",
+      "partnerImg": "freelancer.png",
+      "partnerName": "Freelancer"
+    },
+    {
+      "partnerUrl": "https://www.fiverr.com/pikilab",
+      "partnerImg": "fiverr.png",
+      "partnerName": "Fiverr"
+    },
+    {
+      "partnerUrl": "https://www.upwork.com/freelancers/~0127fc2a28b41f61a1",
+      "partnerImg": "upwork.png",
+      "partnerName": "Upwork"
+    },
+    {
+      "partnerUrl": "https://bionluk.com/pikilabcom",
+      "partnerImg": "bionluk.png",
+      "partnerName": "Bionluk"
+    }
+  ],
+  "youtube": {
+    "imgName": "PikiLab - YouTube",
+    "title": "PikiLab Şimdi YouTube'da",
+    "url": "https://www.youtube.com/@pikilabcom",
+    "urlName": "@pikilabcom",
+    "contentTop": "YouTube platformunda yazılım dünyasına dair ilginç içerikler sunuyoruz! Yazılım geliştirme, kodlama, teknoloji haberleri ve daha fazlası için bizi takip edin.",
+    "contentBottom": "Kanalımıza abone olun ve yazılım dünyasının kapılarını aralayın. Bizi kaçırmamak için bildirimleri açmayı unutmayın!",
+    "button": "Kanala Git"
+  },
+  "skills": [
+    {
+      "skillImg": "html5.png",
+      "skillName": "Html5"
+    },
+    {
+      "skillImg": "css3.png",
+      "skillName": "Css3"
+    },
+    {
+      "skillImg": "scss.png",
+      "skillName": "Scss"
+    },
+    {
+      "skillImg": "bootstrap.png",
+      "skillName": "Bootstrap"
+    },
+    {
+      "skillImg": "tailwind-css.png",
+      "skillName": "Tailwind CSS"
+    },
+    {
+      "skillImg": "styled-components.png",
+      "skillName": "styled-components"
+    },
+    {
+      "skillImg": "javascript.png",
+      "skillName": "JavaScript"
+    },
+    {
+      "skillImg": "typescript.png",
+      "skillName": "TypeScript"
+    },
+    {
+      "skillImg": "jquery.png",
+      "skillName": "jQuery"
+    },
+    {
+      "skillImg": "react.png",
+      "skillName": "React"
+    },
+    {
+      "skillImg": "nextjs.png",
+      "skillName": "Next.js"
+    },
+    {
+      "skillImg": "java.png",
+      "skillName": "Java"
+    },
+    {
+      "skillImg": "spring-boot.png",
+      "skillName": "Spring Boot"
+    },
+    {
+      "skillImg": "php.png",
+      "skillName": "Php"
+    },
+    {
+      "skillImg": "laravel.png",
+      "skillName": "Laravel"
+    },
+    {
+      "skillImg": "nodejs.png",
+      "skillName": "Node.js"
+    },
+    {
+      "skillImg": "expressjs.png",
+      "skillName": "Express.js"
+    },
+    {
+      "skillImg": "android-studio.png",
+      "skillName": "Android Studio"
+    },
+    {
+      "skillImg": "kotlin.png",
+      "skillName": "Kotlin"
+    },
+    {
+      "skillImg": "jetpack-compose.png",
+      "skillName": "Jetpack Compose"
+    },
+    {
+      "skillImg": "react-native.png",
+      "skillName": "React Native"
+    },
+    {
+      "skillImg": "expo.png",
+      "skillName": "Expo"
+    },
+    {
+      "skillImg": "mysql.png",
+      "skillName": "MySQL"
+    },
+    {
+      "skillImg": "mongodb.png",
+      "skillName": "MongoDB"
+    },
+    {
+      "skillImg": "postman.png",
+      "skillName": "Postman"
+    },
+    {
+      "skillImg": "cpanel.png",
+      "skillName": "cPanel"
+    },
+    {
+      "skillImg": "ssh.png",
+      "skillName": "SSH"
+    },
+    {
+      "skillImg": "git.png",
+      "skillName": "Git"
+    },
+    {
+      "skillImg": "github.png",
+      "skillName": "GitHub"
+    },
+    {
+      "skillImg": "wordpress.png",
+      "skillName": "WordPress"
+    },
+    {
+      "skillImg": "seo.png",
+      "skillName": "SEO"
+    },
+    {
+      "skillImg": "photoshop.png",
+      "skillName": "Photoshop"
+    },
+    {
+      "skillImg": "premiere-pro.png",
+      "skillName": "Premiere Pro"
+    },
+    {
+      "skillImg": "after-effects.png",
+      "skillName": "After Effects"
+    },
+    {
+      "skillImg": "social-media.png",
+      "skillName": "Sosyal Medya"
+    }
+  ],
+  "brands": {
+    "title": "Markalarımız",
+    "subtitle": "Geniş kitlelere ulaşabilecek potansiyele sahip dijital platformları hayata geçirmeye çalışıyoruz."
+  },
+  "brandsList": [
+    {
+      "brandImg": "patisas.png",
+      "brandName": "Patisas",
+      "brandUrl": "https://patisas.com",
+      "brandUrlName": "patisas.com"
+    },
+    {
+      "brandImg": "pikilab.png",
+      "brandName": "PikiLab",
+      "brandUrl": "https://pikilab.com",
+      "brandUrlName": "pikilab.com"
+    },
+    {
+      "brandImg": "softboxturkiye.png",
+      "brandName": "Soft Box Türkiye",
+      "brandUrl": "https://softboxturkiye.com",
+      "brandUrlName": "softboxturkiye.com"
+    },
+    {
+      "brandImg": "pikigames.png",
+      "brandName": "PikiGames",
+      "brandUrl": "https://piki.games",
+      "brandUrlName": "piki.games"
+    },
+    {
+      "brandImg": "cineturkey.png",
+      "brandName": "CineTurkey",
+      "brandUrl": "https://cineturkey.com",
+      "brandUrlName": "cineturkey.com"
+    },
+    {
+      "brandImg": "fullyakit.png",
+      "brandName": "FullYakıt",
+      "brandUrl": "https://fullyakit.com",
+      "brandUrlName": "fullyakit.com"
+    },
+    {
+      "brandImg": "beepiki.png",
+      "brandName": "BeePiki",
+      "brandUrl": "https://beepiki.com",
+      "brandUrlName": "beepiki.com"
+    },
+    {
+      "brandImg": "ozkanbuyuk.png",
+      "brandName": "Özkan Büyük",
+      "brandUrl": "https://ozkanbuyuk.com",
+      "brandUrlName": "ozkanbuyuk.com"
+    }
+  ],
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Sizi dinliyor, anlıyor ve rakiplerinizin önüne taşımak için özgün çözümler üretiyoruz."
+  },
+  "serviceContent1": {
+    "title": "Web Site Tasarımı",
+    "content": "Güncel teknolojileri kullanarak ihtiyaçlarınıza uygun mobil uyumlu web siteleri hazırlıyoruz."
+  },
+  "serviceContent2": {
+    "title": "Web Yazılımı Geliştirme",
+    "content": "Güçlü altyapımız ile yazılım ihtiyacınızı en iyi şekilde karşılamaya çalışıyoruz."
+  },
+  "serviceContent3": {
+    "title": "Mobil Uygulama Geliştirme",
+    "content": "iOS ve Android platformlarında çalışacak şekilde web sitenize uyumlu mobil uygulamalar geliştiriyoruz."
+  },
+  "serviceContent4": {
+    "title": "Sosyal Medya Yönetimi",
+    "content": "Sosyal medya hesaplarınızı disiplinli, düzenli bir şekilde trend ve günceli takip ederek yönetiyoruz."
+  },
+  "references": {
+    "title": "Referanslar",
+    "subtitle": "Geleceğinizi yazılımla şekillendirmek için iş birliği yapmaya hazırız."
+  },
+  "referenceSlider": [
+    {
+      "referenceImg": "reference_1.png",
+      "referenceContent": "Referans firma yetkilisinin değerlendirmesi betirtilmemiştir.",
+      "referenceNameSurname": "Ad Soyad",
+      "referenceCompany": "Yetki, Firma Adı"
+    },
+    {
+      "referenceImg": "reference_2.png",
+      "referenceContent": "Referans firma yetkilisinin değerlendirmesi betirtilmemiştir.",
+      "referenceNameSurname": "Ad Soyad",
+      "referenceCompany": "Yetki, Firma Adı"
+    },
+    {
+      "referenceImg": "reference_3.png",
+      "referenceContent": "Referans firma yetkilisinin değerlendirmesi betirtilmemiştir.",
+      "referenceNameSurname": "Ad Soyad",
+      "referenceCompany": "Yetki, Firma Adı"
+    },
+    {
+      "referenceImg": "reference_4.png",
+      "referenceContent": "Referans firma yetkilisinin değerlendirmesi betirtilmemiştir.",
+      "referenceNameSurname": "Ad Soyad",
+      "referenceCompany": "Yetki, Firma Adı"
+    }
+  ],
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "İhtiyacınıza uygun yazılımlara sahip olmak için daha fazla vakit kaybetmeden bizimle iletişime geçin.",
+    "emailTitle": "Yardıma mı ihtiyacınız var?",
+    "emailContent": "Memnuniyetle yardımcı oluruz.",
+    "email": "info@pikilab.com",
+    "emailTo": "mailto:info@pikilab.com",
+    "locationTitle": "Adresimiz",
+    "locationContent": "Türkiye",
+    "formSendFillError": "Bu alan boş bırakılamaz!",
+    "formSendEmailError": "Lütfen geçerli bir e-posta adresi giriniz!",
+    "name_surname": "Adınız Soyadınız",
+    "e-mail": "E-posta Adresiniz",
+    "message": "Mesajınız",
+    "formSendSuccessful": "Mesajınız başarıyla gönderildi. 24 saat içerisinde geri dönüş yapılacaktır.",
+    "formSend": "Mesaj Gönder"
+  },
+  "footer": {
+    "copyright": "Tüm hakları saklıdır."
+  },
+  "backToTopButton": {
+    "title": "Yukarı Çık"
+  },
+  "cookie": {
+    "text": "Bu internet sitesinde sizlere daha iyi hizmet sunulabilmesi için çerezler kullanılmaktadır. Bu siteyi kullanarak, çerez kullanımını kabul etmiş olursunuz.",
+    "buttonText": "Kapat ❌"
+  }
+}
