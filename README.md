@@ -2,6 +2,10 @@
    React - Tailwind CSS PikiLab Web
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-tailwind-pikilab-web/assets/111967202/841e7929-e1a2-4f89-b449-72abdccf92b9" width="400" />
   <img src="https://github.com/ozkannbuyuk/react-tailwind-pikilab-web/assets/111967202/d361e62f-da93-4f96-84f4-40cb8f88c91b" width="400" />
